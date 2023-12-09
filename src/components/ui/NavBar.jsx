@@ -1,4 +1,4 @@
-import TodoIcon from "../../assets/todoIcon.png";
+import TodoIcon from "../../assets/todoicon.png";
 const NavBar = () => {
 	return (
 		<div className="w-full shadow-lg bg-gradient-to-r from-blue-500 via-purple-500 to-blue-800">
